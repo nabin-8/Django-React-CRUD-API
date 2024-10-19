@@ -33,3 +33,7 @@ python3 manage.py startapp api
 ```bash
 python3 manage.py makemigrations
 ```
+- migrate
+```bash
+python3 manage.py migrate
+```
