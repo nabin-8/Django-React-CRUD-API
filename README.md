@@ -25,3 +25,7 @@ django-admin startproject backend .
 ```bash
 python3 manage.py runserver
 ```
+- creating django app `api`
+```bash
+python3 manage.py startapp api
+```
