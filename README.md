@@ -29,3 +29,7 @@ python3 manage.py runserver
 ```bash
 python3 manage.py startapp api
 ```
+- make migrations
+```bash
+python3 manage.py makemigrations
+```
